@@ -1,5 +1,5 @@
 name 'puppet-logstash'
-iersion '0.0.1'
+version '0.0.1'
 author 'Pål-Kristian Hamre'
 summary 'Module for managing logstash'
 description 'Installs and manages logstash'
